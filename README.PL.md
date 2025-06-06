@@ -5,7 +5,7 @@
 2 wersje językowe - jeżeli potrzeba!
 
 
-**AutoLISP — skrypt do wyciągania współrzędnych XY z rysunków CAD**
+**AutoLISP — skrypt do wyciągania współrzędnych XY z rysunków CAD w programach AutoCAD/ZWCad/etc.**
 
 Ten skrypt pozwala automatycznie wyciągnąć współrzędne XY z linii i polilinii znajdujących się w rysunku, i zapisuje je do pliku `.txt` w tym samym katalogu, w którym znajduje się rysunek. Format wyjściowy jest zgodny (lub bliski) wymaganiom polskich urzędów geodezyjnych — np. systemu **WebEWID**.
 
