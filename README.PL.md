@@ -1,7 +1,9 @@
-# GENERATEXY.lsp
-🇬🇧 [English version](README.md)
+[Zobacz wersję po agnielsku](README.md)
 
-# GENERATEXY.lsp
+[PL] & [EN]! 
+
+2 wersje językowe - jeżeli potrzeba!
+
 
 **AutoLISP — skrypt do wyciągania współrzędnych XY z rysunków CAD**
 
