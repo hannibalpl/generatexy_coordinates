@@ -1,4 +1,4 @@
-[Zobacz wersję po agnielsku](README.md)
+[Check english readme.md](README.md)
 
 [PL] & [EN]! 
 
