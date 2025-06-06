@@ -14,10 +14,10 @@
 ;; [EXCEL] Pliki wyjściowe są przyjazne dla Excela — wystarczy skopiować dane z notatnika i wkleić do arkusza. Obrabiaj, sortuj, przeliczaj — co dusza zapragnie.
 ;;
 ;; Jak używać:
-;; 1. Przeciągnij plik .lsp do programu CAD lub załaduj go poleceniem APPLOAD.
-;; 2. Zaznacz linie/polilinie i wpisz: GENERATEXY, lub użyj GENERATEXY-ALL, aby wygenerować współrzędne dla wszystkich linii w rysunku.
-;; 3. Jeżeli jakimś cudem lurknąłeś do skryptu a nie widziałeś readme.md z githuba, ułatwiłem Ci żmudną robotę i chciałbyś mi postawić za to kawę: 
-;;    https://www.buymeacoffee.com/michalkrawczuk
+;; 	1. 	Przeciągnij plik .lsp do programu CAD lub załaduj go poleceniem APPLOAD.
+;; 	2. 	Zaznacz linie/polilinie i wpisz: GENERATEXY, lub użyj GENERATEXY-ALL, aby wygenerować współrzędne dla wszystkich linii w rysunku.
+;; 	3. 	Jeżeli jakimś cudem lurknąłeś do skryptu a nie widziałeś readme.md z githuba, ułatwiłem Ci żmudną robotę i chciałbyś mi postawić za to kawę: 
+;;   	https://www.buymeacoffee.com/michalkrawczuk - z góry dzięki!
 ;;
 ;; --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ;; v1.0 - 2025
