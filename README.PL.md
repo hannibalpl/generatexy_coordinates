@@ -1,4 +1,4 @@
-[Check english readme.md](README.md)
+[Check english readme](README.md)
 
 [PL] & [EN]! 
 
