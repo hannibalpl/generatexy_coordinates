@@ -1,4 +1,4 @@
-[Zobacz polskie readme.md](README.PL.md)
+[Zobacz polskie readme](README.PL.md)
 
 [PL] & [EN]! 
 
