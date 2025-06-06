@@ -2,7 +2,7 @@
 
 [PL] & [EN]! 
 
-2 language versions! Polish (native) and english (if you need!).
+2 language versions! Polish (native) and english (if you need).
 
 **AutoLISP script for extracting XY coordinates from CAD drawings**
 
