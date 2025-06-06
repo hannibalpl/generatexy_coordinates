@@ -10,21 +10,20 @@
 ;;  Additionally, for cost estimate purposes, the script creates a separate file with the lengths of all processed lines, sorted by layers.
 ;;  If you're working with layers — kudos to you.
 ;;	The script should work correctly in most CAD programs supporting AutoLISP. If something's off — report an issue on GitHub:
-;;
-;; [EXCEL] Output files are Excel-friendly — just copy the data from Notepad
-;;         and paste it into a spreadsheet. Process, sort, recalculate — whatever you like.
+;;	https://github.com/hannibalpl/generatexy_coordinates/issues
+;; [EXCEL] Output files are Excel-friendly — just copy the data from Notepad and paste it into a spreadsheet. Process, sort, recalculate — whatever you like.
 ;;
 ;; How to use:
-;; 1. Drag the .lsp file into your CAD program or load it using the APPLOAD command.
-;; 2. Select lines/polylines and type: GENERATEXY, or use GENERATEXY-ALL
-;;    to generate coordinates for all lines in the drawing.
-;; 3. If by some miracle you found yourself here without getting the file from GitHub and this helped your work —
-;;    buy me a coffee:
-;;    https://www.buymeacoffee.com/michalkrawczuk
+;;	1. 	Drag the .lsp file into your CAD program or load it using the APPLOAD command.
+;;	2. 	Select lines/polylines and type: GENERATEXY, or use GENERATEXY-ALL
+;;    	to generate coordinates for all lines in the drawing.
+;;	3.	If by some miracle you found yourself here without reading readme.md from GitHub and this helped your work - please buy me a coffee: 
+;;		https://www.buymeacoffee.com/michalkrawczuk - thank you from the mountain ;)
 ;;
-;; ------------------------------------------------------------------------------------------------------------------------------
+;; ---------------------------------------------------------------------------------------------------------------------------------------------
 ;; v1.0 - 2025
 ;; Author: Michał Krawczuk
+
 (defun c:GENERATEXY (/ ss ent entdata enttype filename file i pt counter obj-counter 
                             pt1 pt2 total-objects current-time date-str time-str length-file length-filename
                             obj-length total-length year month day hour minute second
