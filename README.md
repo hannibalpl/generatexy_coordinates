@@ -1,5 +1,5 @@
-# GENERATEXY.lsp
 🇵🇱 [Zobacz wersję po polsku](README.PL.md)
+🇵🇱 vs 🇬🇧 ! 2 language versions! Polish (native) and english (if you need!).
 
 **AutoLISP script for extracting XY coordinates from CAD drawings**
 
