@@ -1,5 +1,8 @@
-Zobacz wersję po polsku (README.PL.md)
-[PL] & [EN]! 2 language versions! Polish (native) and english (if you need!).
+[Zobacz wersję po polsku](README.PL.md)
+
+[PL] & [EN]! 
+
+2 language versions! Polish (native) and english (if you need!).
 
 **AutoLISP script for extracting XY coordinates from CAD drawings**
 
