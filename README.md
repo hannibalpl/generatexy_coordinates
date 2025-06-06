@@ -4,7 +4,7 @@
 
 2 language versions! Polish (native) and english (if you need).
 
-**AutoLISP script for extracting XY coordinates from CAD drawings**
+**AutoLISP script for extracting XY coordinates from CAD drawings in Autocad/ZWCad/etc. programs**
 
 This script extracts XY coordinates from lines and polylines in your current drawing and saves them to a `.txt` file in the same folder as the DWG. It’s designed to simplify geodetic work and generate coordinate tables ready for Polish government systems such as **WebEWID**.
 
