@@ -1,4 +1,4 @@
-;; --------------------------------------------------------------------------------------------------------------------------------------
+;; --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ;; 	Skrypt wyciąga współrzędne XY punktów z linii oraz polilinii i zapisuje je do pliku .txt w katalogu bieżącego rysunku.
 ;;
 ;;  Forma pliku wyjściowego została wstępnie przygotowana pod upload do polskich urzędów geodezyjnych. Dla WebEWID zostaw tylko 3 kolumny:
@@ -10,19 +10,16 @@
 ;;  Dodatkowo, na potrzeby kosztorysów, skrypt tworzy osobny plik z długościami wszystkich przetworzonych linii, posortowanymi według warstw.
 ;;  Jeśli pracujesz na warstwach — chwała Ci.
 ;;	Skrypt powinien działać poprawnie w większości programów CAD obsługujących AutoLISP. Jeżeli coś nie gra - napisz problem na githubie:
-;;
-;; [EXCEL] Pliki wyjściowe są przyjazne dla Excela — wystarczy skopiować dane z notatnika
-;;         i wkleić do arkusza. Obrabiaj, sortuj, przeliczaj — co dusza zapragnie.
+;;	https://github.com/hannibalpl/generatexy_coordinates/issues
+;; [EXCEL] Pliki wyjściowe są przyjazne dla Excela — wystarczy skopiować dane z notatnika i wkleić do arkusza. Obrabiaj, sortuj, przeliczaj — co dusza zapragnie.
 ;;
 ;; Jak używać:
 ;; 1. Przeciągnij plik .lsp do programu CAD lub załaduj go poleceniem APPLOAD.
-;; 2. Zaznacz linie/polilinie i wpisz: GENERATEXY, lub użyj GENERATEXY-ALL,
-;;    aby wygenerować współrzędne dla wszystkich linii w rysunku.
-;; 3. Jeżeli jakimś cudem zaglądnąłeś tutaj a nie masz pliku z githuba i ułatwiłem Ci pracę  —
-;;    postaw mi kawę:
+;; 2. Zaznacz linie/polilinie i wpisz: GENERATEXY, lub użyj GENERATEXY-ALL, aby wygenerować współrzędne dla wszystkich linii w rysunku.
+;; 3. Jeżeli jakimś cudem lurknąłeś do skryptu a nie widziałeś readme.md z githuba, ułatwiłem Ci żmudną robotę i chciałbyś mi postawić za to kawę: 
 ;;    https://www.buymeacoffee.com/michalkrawczuk
 ;;
-;; ------------------------------------------------------------------------------------------------------------------------------
+;; --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ;; v1.0 - 2025
 ;; Autor: Michał Krawczuk
 
