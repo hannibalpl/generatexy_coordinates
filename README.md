@@ -8,6 +8,8 @@
 
 This script extracts XY coordinates from lines and polylines in your current drawing and saves them to a `.txt` file in the same folder as the DWG. It’s designed to simplify geodetic work and generate coordinate tables ready for Polish government systems such as **WebEWID**.
 
+Additionally, from the selected lines in the same command it creates a second file containing the lengths of these lines and their summary - sorted by layers. Useful for cost estimates.
+
 ---
 
 ## ✨ Features
